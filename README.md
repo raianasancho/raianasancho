@@ -1,12 +1,8 @@
 # Welcome!
 
-## I'm Raiana Ladeira!
+Hi! I'm Raiana, a Full Stack Developer from Brazil! I'm a very curious person and love studying and learning new things. Currently I am the Co-Owner of [Code Fusion](http://codefusion.com.br/) alongside [Bruna Martins](https://github.com/BrunaMartins1993) and am also a part of Slang's team.
 
-:computer: I'm Front-End Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning React.js, Next.js and updating my knowledge of Angular.js,Ionic and Wordpress. I'm also specializing myself as a UX/UI designer and UX Researcher.
+:books: I’m currently studying React.js, React Native, Next.js and updating my knowledge of Angular.js, Ionic, Node.js, Docker and Wordpress. I'm also specializing myself as a UX/UI designer and UX Researcher.
 
 ## Where to find me
 
@@ -30,7 +26,7 @@
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.Net Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -38,9 +34,10 @@
 
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Currently learning
+## Currently studying
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
