@@ -45,7 +45,7 @@ Hi! I'm Raiana, a Full Stack Developer from Brazil! I'm a very curious person an
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-[My Studying Resources](https://github.com/raianasancho/raianasancho/wiki)
+[My Personal Resources](https://www.notion.so/raianasl/Resources-69f5746c25c14424a6dea653d9f61835)
 
 <!---
 raianasancho/raianasancho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
