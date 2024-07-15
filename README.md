@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi! I'm Ly, an authonomous developer working on my heart-projects. 
+Hi! I'm Ly, an autonomous developer working on my heart-projects. 
 
 📚I’m currently studying React.js and Next.Js.
 
